@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background: #efeff2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.caculator {
+    width: 300px;
+    height: 500px;
+    box-shadow: 4px 4px 30px rgba(7, 7, 7, 0.3);
+}
